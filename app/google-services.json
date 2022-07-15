@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1083204562073",
+    "firebase_url": "https://monitoringpressure-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "monitoringpressure",
+    "storage_bucket": "monitoringpressure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083204562073:android:ce18aaf37a59994b971c08",
+        "android_client_info": {
+          "package_name": "com.bikk.monitoringpressure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083204562073-j27h10qp3el0fn2rgj5gmj8oib26qjhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlE7n0Q3l_VJGjsUR528w9XNLzkMPxPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083204562073-j27h10qp3el0fn2rgj5gmj8oib26qjhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
